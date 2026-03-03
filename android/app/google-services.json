@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1027050882571",
+    "project_id": "do-it-app-c8de3",
+    "storage_bucket": "do-it-app-c8de3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027050882571:android:9d30fe503007dde5dd690e",
+        "android_client_info": {
+          "package_name": "com.example.do_it_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCucJciT0_68YkhmJx3rNAKYwa21wAOSpw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
