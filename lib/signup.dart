@@ -102,7 +102,7 @@ class _SignUpState extends State<SignUp> {
                   const SizedBox(height: 40),
 
                   const Text(
-                    'Welcome to DO IT',
+                    'Welcome ',
                     style: TextStyle(
                       color: Colors.white,
                       fontWeight: FontWeight.w600,
